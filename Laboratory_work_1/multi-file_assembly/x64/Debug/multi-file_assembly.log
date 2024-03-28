@@ -1,4 +1,14 @@
-﻿  Click.cpp
+﻿  Bazooka.cpp
+  Class_weapon.cpp
+  Click.cpp
+  Enemy.cpp
+  Grenade.cpp
+  Gun.cpp
+  Heal.cpp
+  Knife.cpp
   multi-file_assembly.cpp
+  Player.cpp
+  Snaiper.cpp
+  SubmachinGun.cpp
   Создание кода...
-  multi-file_assembly.vcxproj -> C:\Users\tanov\Repositories\Study-in-Phystech\Linux\Laboratory_work_1\x64\Debug\multi-file_assembly.exe
+  multi-file_assembly.vcxproj -> C:\Users\tanov\Repositories\Linux\Laboratory_work_1\x64\Debug\multi-file_assembly.exe
